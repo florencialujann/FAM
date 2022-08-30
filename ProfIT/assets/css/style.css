@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #ed502e;
+  color: #637a60;
   text-decoration: none;
 }
 
 a:hover {
-  color: #f1775d;
+  color: #5df198;
   text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #ed502e;
+  border: 6px solid #1d945a;
   border-top-color: white;
   border-radius: 50%;
   width: 60px;
@@ -90,7 +90,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ed502e;
+  background: #2eedaa;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -191,12 +191,12 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ed502e;
+  color: #2eed91;
 }
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #ed502e;
+  background: #2eeda4;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
@@ -206,7 +206,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #ef6445;
+  background: #5dad74;
 }
 
 .navbar .dropdown ul {
@@ -240,7 +240,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #ed502e;
+  color: #2eed8a;
 }
 
 .navbar .dropdown:hover>ul {
@@ -339,7 +339,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #ed502e;
+  color: #5db28a;
 }
 
 .navbar-mobile .getstarted,
@@ -374,7 +374,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #ed502e;
+  color: #864f43;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
